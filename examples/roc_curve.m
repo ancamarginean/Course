@@ -2,8 +2,7 @@ trainedModelLogistic = load("trainModelLogisticFraud");
 model = trainedModelLogistic.trainedModelLogistic
 
 fraud = readtable("creditcard.csv");
-probabilities = predict(model.GeneralizedLinearModel, fraud);
-actual = cell2mat(table2array(fraud(:, end)));
+probabilities = predict(model.GeneralizedLinearModel, 
 
 numTrials = 1000;
 threshold = linspace(0,1, numTrials);
