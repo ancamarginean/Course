@@ -1,0 +1,7 @@
+Due to dimension of the files, the following two files are not stored on github, but you can access them:
+
+1. model construit in matlab, referit in slide-uri la exemplul cu Imbalanced Data - rolul confusion matrix
+ https://drive.google.com/file/d/1qbXMiBjESlhFxAAhngUInLVeEXwgbUsR/view?usp=sharing
+
+2. datele cu tranzactiile normale si frauduloase
+https://drive.google.com/file/d/1SZ9WP5tUgxIn9DFFUUKo_hqBvlfpBuDL/view?usp=sharing
